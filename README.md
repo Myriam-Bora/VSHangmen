@@ -18,11 +18,11 @@
 
 ✔ 사용언어 / 도구
 
-	  ✔ JAVA
+	  ▪ JAVA
 
-	  ✔ WindowBuilder(SWING)
+	  ▪ WindowBuilder(SWING)
 		
-	  ✔ Eclipse
+	  ▪ Eclipse
 	  
 	 
 	
