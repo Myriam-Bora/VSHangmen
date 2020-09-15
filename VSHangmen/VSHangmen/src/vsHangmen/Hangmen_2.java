@@ -30,7 +30,7 @@ public class Hangmen_2 extends JFrame {
 	private JTextField Player_1;
 	private JTextField Player_2_textField_1;
 	private JTextField txtVs;
-	static int player1score = 0;
+	static int player1score = 0; 
 	static int player2score = 0;
 	static int player1life = 20;
 	static int player2life = 20;
