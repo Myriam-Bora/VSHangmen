@@ -23,4 +23,28 @@
 	  ✔ WindowBuilder(SWING)
 		
 	  ✔ Eclipse
+	  
+	 
+	
+## Preview 
+
+	 👍 Main
+ 
+![main](VSHangmen/preview/main.png)
+
+
+	👍 1Player
+ 
+![1player](VSHangmen/preview/1Player.png)
+
+
+	👍 2Players
+ 
+![2players](VSHangmen/preview/2Players.png)
+
+
+	👍 Ranking
+ 
+![raking](VSHangmen/preview/ranking.png)
+
 	
