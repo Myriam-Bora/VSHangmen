@@ -45,7 +45,7 @@ public class Hangmen_2 extends JFrame {
 	// turn 이 1일경우 플레이어1의 턴, -1일 경우 플레이어2의 턴
 	int turn = 1;
 	// 이긴플레이어 이름 저장 메소드
-	String winner = null;
+	String winner = null; 
 	
 	// 버튼 모음집
 	ArrayList<JButton> buttons = new ArrayList<JButton>();
