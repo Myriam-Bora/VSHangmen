@@ -26,14 +26,14 @@
 	  
 	 
 	
-## Preview 
+# Preview 
 
-	 👍 Main
+	✍ Main
  
 ![main](VSHangmen/preview/main.png)
 
 
-	🧑1Player
+	🧑 1Player
  
 ![1player](VSHangmen/preview/1player.png)
 
