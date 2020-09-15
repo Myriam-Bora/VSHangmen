@@ -35,7 +35,7 @@
 
 	🧑1Player
  
-![1player](VSHangmen/preview/1Player.png)
+![1player](VSHangmen/preview/1player.png)
 
 
 	👩🏻‍🤝‍👩🏻 2Players
@@ -45,6 +45,6 @@
 
 	👍 Ranking
  
-![raking](VSHangmen/preview/ranking.png)
+![raking](VSHangmen/preview/raking.png)
 
 	
